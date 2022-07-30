@@ -12,6 +12,13 @@
   font-style: normal;
   font-stretch: normal;
 }
+@font-face {
+  src: url(../FSung-F.ttf);
+  font-family: "FSung-F";
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+}
 
 /*
 	Dreamweaver 流變格線屬性

@@ -168,10 +168,9 @@
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
     <item id="boilerplate.css" href="Styles/boilerplate.css" media-type="text/css"/>
     <item id="Layout01.css" href="Styles/Layout01.css" media-type="text/css"/>
-    <item id="id1" href="Images/12-487e.gif" media-type="image/gif"/>
-    <item id="id2" href="Images/13-6025.gif" media-type="image/gif"/>
     <item href="OEBPS/cover.jpg" id="cover" media-type="image/jpeg"/>
     <item id="fsung-2" href="FSung-2.ttf" media-type="application/x-font-truetype"/>
+    <item id="fsung-f" href="FSung-F.ttf" media-type="application/x-font-truetype"/>
     <item id="id" href="NotoSerifTC-Medium.otf" media-type="application/vnd.ms-opentype"/>
   </manifest>
   <spine toc="ncx" page-progression-direction="ltr">
