@@ -1,10 +1,10 @@
-<?xml version="1.0"  encoding="UTF-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="usbjx68REPAtDtSF7VqOxB4">
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="ufjN5PztJY9rVizWOenj3OC">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
     <dc:title>後漢書</dc:title>
     <dc:creator opf:role="aut" opf:file-as="范曄">范曄</dc:creator>
     <dc:date>2010-10-31T16:00:00+00:00</dc:date>
-    <dc:identifier id="uuid_id" opf:scheme="uuid">568f299d-4394-4111-bbfc-d679e15578d1</dc:identifier>
+    <dc:identifier id="ufjN5PztJY9rVizWOenj3OC" opf:scheme="uuid">ufjN5PztJY9rVizWOenj3OC</dc:identifier>
     <dc:publisher>臺灣商務印書館</dc:publisher>
     <dc:contributor opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
     <dc:description>&lt;div&gt;
@@ -24,7 +24,7 @@
     <dc:subject>中国历史</dc:subject>
     <dc:subject>@台版</dc:subject>
     <dc:language>zh</dc:language>
-    <dc:identifier opf:scheme="calibre">33512c4f-b7c3-4cb4-a3d0-b01d8c91a1f8</dc:identifier>
+    <dc:identifier opf:scheme="calibre">43617e9a-96e4-44f4-8221-7d8d173ef692</dc:identifier>
     <dc:identifier opf:scheme="NEW_DOUBAN">3203412</dc:identifier>
     <dc:identifier opf:scheme="ISBN">9789570516661</dc:identifier>
     <meta name="calibre:title_sort" content="後漢書"/>
