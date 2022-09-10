@@ -2,11 +2,11 @@
 <package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="ufjN5PztJY9rVizWOenj3OC">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
     <dc:title>後漢書</dc:title>
-    <dc:creator opf:role="aut" opf:file-as="范曄 &amp; 李賢">范曄</dc:creator>
-    <dc:creator opf:role="aut">李賢</dc:creator>
+    <dc:creator opf:role="aut" opf:file-as="南朝宋·范曄 &amp; 唐·李賢">南朝宋·范曄</dc:creator>
+    <dc:creator opf:role="aut">唐·李賢</dc:creator>
     <dc:date>0101-01-01T00:00:00+00:00</dc:date>
     <dc:identifier id="ufjN5PztJY9rVizWOenj3OC" opf:scheme="uuid">ufjN5PztJY9rVizWOenj3OC</dc:identifier>
-    <dc:contributor opf:role="bkp">calibre (6.3.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:contributor opf:role="bkp">calibre (6.4.0) [https://calibre-ebook.com]</dc:contributor>
     <dc:description>&lt;div&gt;
 &lt;p&gt;今本一百二十卷。其中本紀十卷、列傳八十卷，南朝宋范曄撰，唐李賢等注；志三十卷，晉司馬彪撰，梁劉昭注。在范曄以前，記東漢一代的史書，有官修的東觀漢記、三國吳謝承後漢書、晉薛瑩後漢記、晉司馬彪續漢書、晉華嶠後漢書、晉謝沈後漢書、晉張瑩後漢南記、晉袁山松後漢書等（見隋書經籍志）。曄以諸家多未善，乃以東觀漢記爲藍本，兼摘取諸家，自撰後漢書。後因獲罪被處死，志未寫成。北宋乾興初，孫奭建議校勘後漢書，以劉昭注司馬彪續漢書之志併入曄書，成今本一百二十卷的後漢書。此書史實豐富，文筆精煉流暢，雖因襲史記漢書體例，但獨創了黨錮、獨行、逸民、列女等類傳，爲以後紀傳體史書所沿用。後漢書無表，宋熊方有補後漢書年表十卷。&lt;/p&gt;
 &lt;p&gt;本電子書基於「漢川草廬」重製電子版。&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -16,9 +16,9 @@
     <dc:subject>後漢書</dc:subject>
     <dc:subject>二十四史</dc:subject>
     <dc:language>zh</dc:language>
-    <dc:identifier opf:scheme="calibre">b79a0f67-208b-4133-80fa-50526ba6cf2a</dc:identifier>
+    <dc:identifier opf:scheme="calibre">3f093604-9bad-4377-a035-243ca08b6be9</dc:identifier>
     <meta name="calibre:title_sort" content="後漢書"/>
-    <meta name="calibre:author_link_map" content="{&quot;范曄&quot;: &quot;&quot;, &quot;李賢&quot;: &quot;&quot;}"/>
+    <meta name="calibre:author_link_map" content="{&quot;南朝宋·范曄&quot;: &quot;&quot;, &quot;唐·李賢&quot;: &quot;&quot;}"/>
     <meta name="calibre:series" content="百衲本二十四史"/>
     <meta name="calibre:series_index" content="1.0"/>
     <meta name="cover" content="cover"/>
@@ -159,10 +159,10 @@
     <item id="boilerplate.css" href="Styles/boilerplate.css" media-type="text/css"/>
     <item id="Layout01.css" href="Styles/Layout01.css" media-type="text/css"/>
     <item href="OEBPS/cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item id="biaodian" href="biaodian.otf" media-type="application/vnd.ms-opentype"/>
     <item id="fsung-2" href="FSung-2.ttf" media-type="application/x-font-truetype"/>
     <item id="fsung-f" href="FSung-F.ttf" media-type="application/x-font-truetype"/>
     <item id="noto-sc" href="NotoSerifSC-Medium.otf" media-type="application/vnd.ms-opentype"/>
-    <item id="biaodian" href="biaodian.otf" media-type="application/vnd.ms-opentype"/>
     <item id="main.js" href="Styles/main.js" media-type="application/javascript"/>
   </manifest>
   <spine toc="ncx" page-progression-direction="ltr">
