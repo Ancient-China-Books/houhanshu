@@ -165,7 +165,7 @@
     <item id="noto-sc" href="NotoSerifSC-Medium.otf" media-type="application/vnd.ms-opentype"/>
     <item id="main.js" href="Styles/main.js" media-type="application/javascript"/>
   </manifest>
-  <spine toc="ncx" page-progression-direction="ltr">
+  <spine toc="ncx" page-progression-direction="rtl">
     <itemref idref="x001.htm"/>
     <itemref idref="x001b.htm"/>
     <itemref idref="x002.htm"/>
